@@ -7,7 +7,7 @@
    int num;
    //user input
    cout << "Enter a positive integer: ";
-   cout >> num;
+   cin >> num;
 
    //outer if statement
    if (num > 0) {
